@@ -12,7 +12,10 @@ while(n>0){
 printf("%d ",temp);
 if (temp==sum)
 {
-    printf("yo");
+    printf("Yes");
+}
+else{
+     printf("No!!");
 }
 
 return 0;
